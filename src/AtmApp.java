@@ -10,6 +10,9 @@ public class AtmApp {
         System.out.println("git ögrenmek cok kolay");
         //version 4
 
+        System.out.println("hatice branchi kodlarını yazdı");
+        //version htc1
+
 
     }
 }
