@@ -13,6 +13,9 @@ public class AtmApp {
         System.out.println("hatice branchi kodlarını yazdı");
         //version htc1
 
+        System.out.println("bir kısım kodlar yazdık");
+        //version htc2
+
 
     }
 }
