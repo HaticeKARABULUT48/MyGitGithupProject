@@ -18,6 +18,7 @@ public class AtmApp {
         
         //remote repoda degisiklik yaptım.
         //localde degişiklik yaptım.
+        //remote da degisiklik yaptım
 
 
     }
