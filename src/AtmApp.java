@@ -15,6 +15,8 @@ public class AtmApp {
 
         System.out.println("bir kısım kodlar yazdık");
         //version htc2
+        
+        //remote repoda degisiklik yaptım.
 
 
     }
