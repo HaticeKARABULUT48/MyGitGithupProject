@@ -17,6 +17,7 @@ public class AtmApp {
         //version htc2
         
         //remote repoda degisiklik yaptım.
+        //localde degişiklik yaptım.
 
 
     }
